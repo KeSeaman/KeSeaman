@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KeSeaman
+- 👋 Hi, I’m Kinyua
 - 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m a Telecoms Engineer who switched to Data Science
 
 
 <!---
