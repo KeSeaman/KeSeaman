@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kinyua
-- 👀 I’m interested in ML/AI
+- 👀 I’m interested in ML/AI and Data Engineering
 - 🌱 I’m a Telecoms Engineer who switched to Data Science
 
 
