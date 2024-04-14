@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Kinyua
 - 👀 I’m interested in ML/AI and Data Engineering
+      - Python 🐍
+      - ML/MLOps 🛠
+      - AI Engineering ⚙️
 - 🌱 I’m a Telecoms Engineer who switched to Data Science
 
 
