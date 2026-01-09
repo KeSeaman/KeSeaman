@@ -80,6 +80,16 @@ class Kinyua:
 
 ---
 
+## 🎯 When I'm Not Coding
+
+<div align="center">
+
+🏸 **Badminton Player** | 📷 **Photographer** | 🥾 **Hiker**
+
+</div>
+
+---
+
 <div align="center">
 
 *"In God we trust; all others must bring data."* — W. Edwards Deming
