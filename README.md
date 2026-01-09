@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kinyua Seaman
 
-**Data Scientist | ML Engineer | Causal Inference Specialist**
+**Data Scientist | ML Engineer | Causal Inference Specialist | Rust Enthusiast | Telecoms Engineer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-KeSeaman-181717?style=for-the-badge&logo=github)](https://github.com/KeSeaman)
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
