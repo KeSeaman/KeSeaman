@@ -49,7 +49,7 @@ class Kinyua:
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**Arrest Demographics Disparity**](https://github.com/KeSeaman/Arrest_Demographics_Disparity) | Statistical analysis of arrest patterns | `Python` `Pandas` `Visualization` |
-| **PowerBI Visualization** | Interactive business intelligence dashboards | `PowerBI` `DAX` |
+| [**PowerBI Visualization**](https://github.com/KeSeaman/PowerBI_Visualization) | Interactive business intelligence dashboards | `PowerBI` `DAX` |
 
 ---
 
