@@ -35,7 +35,6 @@ class Kinyua:
 |---------|-------------|------------|
 | [**Marginal Utility of Police Force**](https://github.com/KeSeaman/Marginal_Utility_Police_Force) | Difference-in-Differences analysis of police spending on crime rates | `Python` `Modin` `Statsmodels` |
 | [**Deep Causality**](https://github.com/KeSeaman/Deep_Causality) | ICU Sepsis causal analysis with Rust backend | `Rust` `Python` `PyO3` |
-| [**Causal Project v2**](https://github.com/KeSeaman/causal_project_v2) | OLS, IV/2SLS, and DiD implementations | `Python` `EconML` |
 
 ### 🤖 Machine Learning & MLOps
 
