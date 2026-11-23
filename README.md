@@ -12,7 +12,7 @@ Python first, Rust where speed or safety matters, and an evaluation before any c
 | [ClimatePolicyRAG](https://github.com/KeSeaman/ClimatePolicyRAG) | Local-first RAG over arXiv climate research and World Bank project abstracts | A self-grading model rated every answer faithful, including "CO₂ has a GWP of 42" |
 | [F1_MLOps](https://github.com/KeSeaman/F1_MLOps) | PPO pit-strategy agent on a Rust race simulator calibrated on real lap data | Matches exhaustive search (5363.4 s vs 5363.6 s); simulator bias of ~9 s reported |
 | [Marginal_Utility_Police_Force](https://github.com/KeSeaman/Marginal_Utility_Police_Force) | DiD and event study of police spending and violent crime, 2,624 US cities | No deterrent effect in the two-period DiD; reverse causality flagged |
-| [Causal-Analytics](https://github.com/KeSeaman/Causal-Analytics) | OLS, IV/2SLS and DiD in Rust with Python bindings, benchmarked against numpy and statsmodels | Estimators agree (~$800–890); the Rust path measured 2–6× slower than numpy |
+| [Causal-Analytics](https://github.com/KeSeaman/Causal-Analytics) | OLS, IV/2SLS and DiD in Rust with Python bindings, benchmarked against numpy and statsmodels | Rust is 2–6× slower than numpy for single fits, 3–20× faster for bootstrap SEs |
 
 ## Writing
 
