@@ -8,11 +8,11 @@ Python first, Rust where speed or safety matters, and an evaluation before any c
 
 | Project | What it does | One result |
 | --- | --- | --- |
-| [Deep_Causality](https://github.com/KeSeaman/Deep_Causality) | ICU sepsis early warning: causal drivers in Rust, a LightGBM detector and safety guardrails, tested on an unseen hospital | 0.70 AUROC; guardrails block the 30% of hours the model handles worst |
+| [Deep_Causality](https://github.com/KeSeaman/Deep_Causality) | ICU sepsis early warning: causal drivers in Rust, a LightGBM detector and safety guardrails, tested on an unseen hospital | 0.70 AUROC; guardrails block 30% of hours, where the model is weaker (AUROC 0.63 vs 0.71) |
 | [ClimatePolicyRAG](https://github.com/KeSeaman/ClimatePolicyRAG) | Local-first RAG over arXiv climate research and World Bank project abstracts | A self-grading model rated every answer faithful, including "CO₂ has a GWP of 42" |
 | [F1_MLOps](https://github.com/KeSeaman/F1_MLOps) | PPO pit-strategy agent on a Rust race simulator calibrated on real lap data | Matches exhaustive search (5363.4 s vs 5363.6 s); simulator bias of ~9 s reported |
 | [Marginal_Utility_Police_Force](https://github.com/KeSeaman/Marginal_Utility_Police_Force) | DiD and event study of police spending and violent crime, 2,624 US cities | No deterrent effect in the two-period DiD; reverse causality flagged |
-| [Causal-Analytics](https://github.com/KeSeaman/Causal-Analytics) | OLS, IV/2SLS and DiD in Rust with Python bindings, benchmarked against numpy and statsmodels | Rust is 2–6× slower than numpy for single fits, 3–20× faster for bootstrap SEs |
+| [Causal-Analytics](https://github.com/KeSeaman/Causal-Analytics) | OLS, IV/2SLS and DiD in Rust with Python bindings, benchmarked against numpy and statsmodels | Rust is 2–6× slower than numpy for single fits, up to 20× faster for bootstrap SEs (3–20× at ≤100k rows) |
 
 ## Writing
 
