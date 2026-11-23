@@ -1,98 +1,27 @@
-<div align="center">
+# Kinyua Seaman
 
-# 👋 Hi, I'm Kinyua Seaman
+I build causal AI that understands the system it changes, and the teams that build it.
+Data Scientist at Safaricom, working across telecoms and mobile money; telecoms engineer by training.
+Python first, Rust where speed or safety matters, and an evaluation before any claim.
 
-**Data Scientist | ML Engineer | Causal Inference Specialist | Rust Enthusiast | Telecoms Engineer**
+## Selected work
 
-[![GitHub](https://img.shields.io/badge/GitHub-KeSeaman-181717?style=for-the-badge&logo=github)](https://github.com/KeSeaman)
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
+| Project | What it does | One result |
+| --- | --- | --- |
+| [Deep_Causality](https://github.com/KeSeaman/Deep_Causality) | ICU sepsis causal driver analysis in Rust (DeepCausality), with clinical guardrails | Blocks predictions when critical vitals are missing instead of guessing |
+| [ClimatePolicyRAG](https://github.com/KeSeaman/ClimatePolicyRAG) | Local-first RAG over arXiv climate research and World Bank project abstracts | A self-grading model rated every answer faithful, including "CO₂ has a GWP of 42" |
+| [F1_MLOps](https://github.com/KeSeaman/F1_MLOps) | PPO pit-strategy agent on a Rust race simulator calibrated on real lap data | Matches exhaustive search (5363.4 s vs 5363.6 s); simulator bias of ~9 s reported |
+| [Marginal_Utility_Police_Force](https://github.com/KeSeaman/Marginal_Utility_Police_Force) | DiD and event study of police spending and violent crime, 2,624 US cities | No deterrent effect in the two-period DiD; reverse causality flagged |
+| [Causal-Analytics](https://github.com/KeSeaman/Causal-Analytics) | OLS, IV/2SLS and DiD in Rust with Python bindings, against EconML | Four estimators agree on a job-training effect of about $800–890 |
 
-</div>
+## Writing
 
----
+- [The MLOps Reality Check: Architecture Over Algorithms](https://keseaman.github.io/blog/mlops-reality-check-architecture.html)
+- [Building a Culturally Grounded Dataset](https://keseaman.github.io/blog/culturally-grounded-dataset.html)
+- [AI Governance and Ethics: Frameworks and Challenges](https://keseaman.github.io/blog/ai-governance-frameworks-and-challenges.html)
 
-## 🚀 About Me
+## Research
 
-I'm a **Telecoms Engineer** who made the leap into **Data Science & ML Engineering**. I specialize in building end-to-end data pipelines, causal inference systems, and production-grade ML applications.
+MSc in Artificial Intelligence at JKUAT; thesis on explainable AI. [Coursework](https://github.com/KeSeaman/Msc-AI-Coursework)
 
-```python
-class Kinyua:
-    def __init__(self):
-        self.role = "Data Scientist & ML Engineer"
-        self.languages = ["Python", "Rust", "SQL"]
-        self.interests = ["Causal Inference", "MLOps", "High-Performance Computing"]
-        self.current_focus = "Polyglot ML Systems (Python + Rust)"
-```
-
----
-
-## 🔬 Featured Projects
-
-### 📊 Causal Inference & Econometrics
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Marginal Utility of Police Force**](https://github.com/KeSeaman/Marginal_Utility_Police_Force) | Difference-in-Differences analysis of police spending on crime rates | `Python` `Modin` `Statsmodels` |
-| [**Deep Causality**](https://github.com/KeSeaman/Deep_Causality) | ICU Sepsis causal analysis with Rust backend | `Rust` `Python` `PyO3` |
-
-### 🤖 Machine Learning & MLOps
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**F1 MLOps (The Undercut Oracle)**](https://github.com/KeSeaman/F1_MLOps) | Multi-Agent RL for F1 pit strategy optimization | `Ray RLlib` `Rust` `Marimo` |
-| [**Climate Policy RAG**](https://github.com/KeSeaman/ClimatePolicyRAG) | Retrieval-Augmented Generation for climate documents | `LangChain` `Vector DB` `Python` |
-
-### 📈 Data Visualization & Analysis
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Arrest Demographics Disparity**](https://github.com/KeSeaman/Arrest_Demographics_Disparity) | Statistical analysis of arrest patterns | `Python` `Pandas` `Visualization` |
-| [**PowerBI Visualization**](https://github.com/KeSeaman/PowerBI_Visualization) | Interactive business intelligence dashboards | `PowerBI` `DAX` |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Data Science & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🎯 When I'm Not Coding
-
-<div align="center">
-
-🏸 **Badminton Player** | 📷 **Photographer** | 🥾 **Hiker**
-
-</div>
-
----
-
-<div align="center">
-
-*"In God we trust; all others must bring data."* — W. Edwards Deming
-
-**Let's connect and build something impactful!**
-
-</div>
+[Portfolio](https://keseaman.github.io/) · [LinkedIn](https://www.linkedin.com/in/kinyua-seaman/)
